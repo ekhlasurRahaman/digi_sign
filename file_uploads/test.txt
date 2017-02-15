@@ -1,0 +1,12 @@
+hi i am sajol.
+
+certificates to include in the signature which can for example be used 
+to help the recipient to verify the certificate that you 
+used.$cert_type = (int) The access permissions granted for this document. 
+Valid values shall be: 1 = No changes to the document shall be permitted; 
+any change to the document shall invalidate the signature; 2 = Permitted 
+changes shall be filling in forms, instantiating page templates, and signing;
+ other changes shall invalidate the signature; 3 = Permitted changes shall 
+ be the same as for 2, as well as annotation creation, deletion, and modification;
+ other changes shall invalidate the signature.
+
